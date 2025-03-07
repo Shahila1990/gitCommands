@@ -11,7 +11,7 @@ git branch -M main
 git remote add origin https://github.com/Shahila1990/WebDevelopment-Mern-.git
 git push -u origin main
 
-```sh
+sh
 ## or push an existing repository from the command line
 
 git remote add origin https://github.com/Shahila1990/WebDevelopment-Mern-.git
