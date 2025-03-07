@@ -2,7 +2,7 @@
 
 ## or create a new repository on the command line
 
-
+```
 echo "# WebDevelopment-Mern-" >> README.md
 git init
 git add README.md
